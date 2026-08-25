@@ -13,10 +13,19 @@ OIBSIP/
 │   ├── requirements.txt
 │   ├── CSV analysis outputs
 │   └── screenshots/
-└── DataAnalytics-Task3-ProfessionalDataCleaning/
-    ├── Task_3_Professional_Data_Cleaning.ipynb
-    ├── Messy_Employee_dataset.csv
-    ├── Messy_Employee_dataset_cleaned.csv
+├── DataAnalytics-Task3-ProfessionalDataCleaning/
+│   ├── Task_3_Professional_Data_Cleaning.ipynb
+│   ├── Messy_Employee_dataset.csv
+│   ├── Messy_Employee_dataset_cleaned.csv
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── DEMO_AND_SUBMISSION_GUIDE.md
+│   └── screenshots/
+└── DataAnalytics-Task4-SentimentAnalysis/
+    ├── Task_4_Sentiment_Analysis.ipynb
+    ├── Tweets.csv
+    ├── model_metrics.csv
+    ├── misclassified_examples.csv
     ├── README.md
     ├── requirements.txt
     ├── DEMO_AND_SUBMISSION_GUIDE.md
@@ -36,3 +45,9 @@ An end-to-end analysis of retail sales trends, customer demographics, product pe
 An auditable Python data-cleaning workflow that transforms a deliberately messy employee dataset into a validated, analysis-ready CSV using documented rules and automated quality checks.
 
 [Open Data Analytics Task 3](DataAnalytics-Task3-ProfessionalDataCleaning/)
+
+### Task 4 — Sentiment Analysis
+
+A machine-learning NLP project that classifies airline tweets as negative, neutral, or positive using TF-IDF, Multinomial Naive Bayes, and Logistic Regression with model evaluation and error analysis.
+
+[Open Data Analytics Task 4](DataAnalytics-Task4-SentimentAnalysis/)
