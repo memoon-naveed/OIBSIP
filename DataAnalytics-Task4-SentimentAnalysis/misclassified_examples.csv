@@ -1,0 +1,6 @@
+Original text,Actual,Predicted,Confidence,Likely reason
+"@VirginAmerica @ladygaga @carrieunderwood all are great , but I have to go with #CarrieUnderwood 😍👌",neutral,positive,0.9981928300073832,Mixed sentiment or a contrast phrase may contain competing signals.
+@AmericanAir Thanks so much!,neutral,positive,0.9963640122029663,Very short text; too little context to determine tone reliably.
+@AmericanAir thanks!,neutral,positive,0.9963640122029663,Very short text; too little context to determine tone reliably.
+@SouthwestAir Thanks! Will do,neutral,positive,0.9963640122029663,Very short text; too little context to determine tone reliably.
+@united thanks,neutral,positive,0.9963640122029663,Very short text; too little context to determine tone reliably.
