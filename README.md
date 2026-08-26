@@ -21,14 +21,20 @@ OIBSIP/
 │   ├── requirements.txt
 │   ├── DEMO_AND_SUBMISSION_GUIDE.md
 │   └── screenshots/
-└── DataAnalytics-Task4-SentimentAnalysis/
-    ├── Task_4_Sentiment_Analysis.ipynb
-    ├── Tweets.csv
-    ├── model_metrics.csv
-    ├── misclassified_examples.csv
+├── DataAnalytics-Task4-SentimentAnalysis/
+│   ├── Task_4_Sentiment_Analysis.ipynb
+│   ├── Tweets.csv
+│   ├── model_metrics.csv
+│   ├── misclassified_examples.csv
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── DEMO_AND_SUBMISSION_GUIDE.md
+│   └── screenshots/
+└── DataAnalytics-L2-HousePricePrediction/
+    ├── House_Price_Prediction_Linear_Regression.ipynb
+    ├── Housing.csv
     ├── README.md
     ├── requirements.txt
-    ├── DEMO_AND_SUBMISSION_GUIDE.md
     └── screenshots/
 ```
 
@@ -51,3 +57,9 @@ An auditable Python data-cleaning workflow that transforms a deliberately messy 
 A machine-learning NLP project that classifies airline tweets as negative, neutral, or positive using TF-IDF, Multinomial Naive Bayes, and Logistic Regression with model evaluation and error analysis.
 
 [Open Data Analytics Task 4](DataAnalytics-Task4-SentimentAnalysis/)
+
+### Level 2 Task 1 — House Price Prediction with Linear Regression
+
+An end-to-end regression project using a Kaggle housing dataset, exploratory analysis, feature encoding, correlation analysis, an 80/20 train-test split, Linear and Ridge Regression, model evaluation, residual diagnostics, and coefficient interpretation.
+
+[Open Data Analytics Level 2 Task 1](DataAnalytics-L2-HousePricePrediction/)
